@@ -14,14 +14,14 @@ Take a look around my profile and personal projects i have completed so far in m
 
 ## Work Experience
 
-- Planning Analyst - Aldermore Bank (Financial Industry)
-- BI Developer - Ombudsman Services (Complaints Industry)
-- Lead BI Developer - CGA Strategy (Research Industry)
-- BI Manager - Ombudsman Services (Complaints Industry) 
-- Head of BI & Analytics - Ombudsman Services (Complaints Industry)
-- Data Manager - ASE Global (Automotive & Financial Industry)
-- Head of Data - U.P. Fitness Ltd (Health & Fitness Industry)
-- Group Data Controller - U.P. Fitness Ltd (Health & Fitness Industry)
+- Planning Analyst, Aldermore Bank (Financial Industry)
+- BI Developer, Ombudsman Services (Complaints Industry)
+- Lead BI Developer, CGA Strategy (Research Industry)
+- BI Manager, Ombudsman Services (Complaints Industry) 
+- Head of BI & Analytics, Ombudsman Services (Complaints Industry)
+- Data Manager, ASE Global (Automotive & Financial Industry)
+- Head of Data, U.P. Fitness Ltd (Health & Fitness Industry)
+- Group Data Controller, U.P. Fitness Ltd (Health & Fitness Industry)
 
 ## Skillsets
 
