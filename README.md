@@ -8,9 +8,9 @@ Take a look around my profile and personal projects i have completed so far in m
 
 ## Education
 
-CGSE: 10 A-C's
-AVCE Business Studies
-Level 6 BSc Data Science (Currently Studying)
+- CGSE: 10 A-C's
+- AVCE Business Studies
+- Level 6 BSc Data Science (Currently Studying)
 
 ## Work Experience
 
