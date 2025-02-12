@@ -29,6 +29,8 @@ MIcrosoft SQL Server, Azure SQL, Data Factory, Tableau, PowerBI, PowerApps, Exce
 
 ## Personal Projects
 
-More to Follow!!
+More projects to follow soon!!
+
+[Logistic Regressions - Gym Membership](https://example.com) 
 
 ![Histogram](assets/histogram-example-2.png)
