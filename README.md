@@ -25,7 +25,7 @@ Take a look around my profile and personal projects i have completed so far in m
 
 ## Skillsets
 
-MIcrosoft SQL Server, Azure SQL, Data Factory, Tableau, PowerBI, PowerApps, Excel, AWS RDB, AWS Redhshift, Lamdas, Kubernettes, GitHub, Python.
+Microsoft SQL Server, Azure SQL, Data Factory, Tableau, PowerBI, PowerApps, Excel, AWS RDB, AWS Redhshift, Lamdas, Kubernettes, GitHub, Python.
 
 ## Personal Projects
 
