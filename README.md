@@ -33,6 +33,10 @@ More projects to follow soon!!
 
 ### Logistic Regression - Gym Memberships (US)
 
+This is a project that looks at the probabilty of gym users in the US renewing their gym members from a publicly available datasets, click the below link to see a detailed walkthrough of the project and code used.
+
 [Logistic Regressions - Gym Membership](https://example.com) 
+
+
 
 ![Histogram](assets/histogram-example-2.png)
