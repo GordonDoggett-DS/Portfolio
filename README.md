@@ -31,12 +31,10 @@ Microsoft SQL Server, Azure SQL, Data Factory, Tableau, PowerBI, PowerApps, Exce
 
 More projects to follow soon!!
 
-### Logistic Regression - Gym Memberships (US)
+### Calorie Prediction - XGBoost
 
-This is a project that looks at the probabilty of gym users in the US renewing their gym members from a publicly available datasets, click the below link to see a detailed walkthrough of the project and code used.
+This project predicts the number of calories burned during a gym workout.
 
 [Logistic Regressions - Gym Membership](https://example.com) 
-
-
 
 ![Histogram](assets/histogram-example-2.png)
