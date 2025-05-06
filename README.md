@@ -36,3 +36,4 @@ More projects to follow soon!!
 This project predicts the number of calories burned during a gym workout using an XGBoost regression model. It includes detailed analysis, code, and PowerBI visualizations.  
 Check out the full project [here](https://github.com/GordonDoggett-DS/Calories_Prediction).
 
+![Actual_VS_Predicted](Assets/Actual_VS_Predicted.png)
